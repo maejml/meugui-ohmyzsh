@@ -2,7 +2,8 @@
 
 OhMyZsh theme based on [duellj](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/duellj.zsh-theme), added git info. 👍
 
-![Imp demo](meugui.png)
+![Meugui demo](meugui.png)
+![Meugui alt demo](meugui2.png)
 
 ## Installation
 
